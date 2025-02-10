@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+python text_generator.py
+
 ### Task 4: Text Generation Model
 # This script generates text using GPT-2 model.
 
